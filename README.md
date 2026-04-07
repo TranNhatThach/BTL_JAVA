@@ -9,6 +9,8 @@
 **Tutor Connect** là hệ thống kết nối học sinh và gia sư thông minh, tích hợp trí tuệ nhân tạo để tối ưu hóa quá trình học tập và giảng dạy. Đây là sản phẩm thuộc bài tập lớn môn Công nghệ Java.
 
 ---
+- **Link BE**: https://github.com/TranNhatThach/BE_BTLJava
+- **Link FE**: https://github.com/TranNhatThach/Fe_Tutor_java
 
 ## Key Features
 
